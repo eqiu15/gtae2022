@@ -1,0 +1,17 @@
+---
+:id: 54984613
+:submitters:
+- :name: Longan Loi
+  :email: lloi3@gatech.edu
+- :name: Maxine Mei-Sien Lee
+  :email: mlee624@gatech.edu
+- :name: Eric Qiu
+  :email: eqiu7@gatech.edu
+- :name: Timothy Sung-Min Bang
+  :email: timothybang@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-12 21:11:52.093225000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-12 13:11:52.093225000 Z
+:status: processed
